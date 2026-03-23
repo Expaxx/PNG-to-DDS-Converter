@@ -10,8 +10,6 @@ import sys
 #Button for PNG folder
 #New folder for DDS textures
 
-
-
 class MyWindow(QMainWindow):
     def __init__(self):
         super().__init__()
